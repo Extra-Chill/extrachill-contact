@@ -3,6 +3,7 @@
   "changelog_target": "docs/CHANGELOG.md",
   "extensions": {
     "wordpress": {
+      "database_type": "mysql",
       "settings": {
         "wp_codebox_database_service": {
           "provider": "external",
